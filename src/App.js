@@ -92,6 +92,7 @@ function App() {
         <p>Clica no botão aqui embaixo então</p>
         <a
           target="_blank"
+          rel="noopener noreferrer"
           href="https://drive.google.com/drive/folders/1BbueySRnmP_s1sK6RhfiIZY7zr-exbUW?usp=sharing"
         >
           Ver meus presentes!
