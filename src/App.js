@@ -90,7 +90,10 @@ function App() {
         <p>Parece que eu estou esquecendo alguma coisa...</p>
         <p>Aaaa é... Seu presentinho né...</p>
         <p>Clica no botão aqui embaixo então</p>
-        <a href="https://drive.google.com/drive/folders/1BbueySRnmP_s1sK6RhfiIZY7zr-exbUW?usp=sharing">
+        <a
+          target="_blank"
+          href="https://drive.google.com/drive/folders/1BbueySRnmP_s1sK6RhfiIZY7zr-exbUW?usp=sharing"
+        >
           Ver meus presentes!
         </a>
       </div>
